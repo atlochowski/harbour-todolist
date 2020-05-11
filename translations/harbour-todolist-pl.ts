@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Enable predictive text</source>
-        <translation type="unfinished"></translation>
+        <translation>Włącz przewidywanie tekstu</translation>
     </message>
 </context>
 <context>
